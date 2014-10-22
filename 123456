@@ -1,0 +1,16 @@
+FTP实验性服务器
+由于众所周不知的原因 这个服务器被假设在了邪恶的米粒尖合众国,并且在中国无法直接访问
+不过没关系 正如我说的 网页也可以访问这个FTP服务器,虽然麻烦些慢些
+其中一个网页是webftp.zzbaike.com.您也可以百度一下"在线FTP"
+然后填写:
+FTP服务器(FTP Server):qd2emsdevcom.esy.es
+端口(Port):21
+用户名(username):u935992079.anonymous
+密码(password):qTvfAxbmGb8TxYpWo3
+(觉得太长了?没关系我上传了一份在二实验的学生组织群里,叫做FTP记录.txt)
+使劲点一下登入
+进入后应该有七个目录,其中有一个叫做PUBLIC_FTP,使劲点一下点开
+点开后会有三个文件:Sai_kyoiku.mp3,The Internationale.mp3和US ARMY.txt
+它们分别是Neru的《再教育》压缩版，唐朝乐队的《国际歌》压缩版，以及美国陆军的一个简介.
+您可以点击它们的名字来下载它们.
+使用完毕后,点击右上角ftp.qd2emsdevcom.esy.es的右下角的红色圆形关机图标来登出.
